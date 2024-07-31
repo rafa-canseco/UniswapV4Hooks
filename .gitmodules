@@ -1,0 +1,3 @@
+[submodule "lesson_2/limit_orders/lib/forge-std"]
+	path = lesson_2/limit_orders/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
